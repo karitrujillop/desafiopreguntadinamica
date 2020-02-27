@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="categoria">Categoria</string>
+    <string name="dificultad">Dificultad</string>
+    <string name="boton1">Boton1</string>
+    <string name="boton2">Boton2</string>
+</resources>
